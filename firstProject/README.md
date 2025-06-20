@@ -14,8 +14,8 @@ This is a **Quiz Management REST API** built with **Spring Boot**, allowing user
 - **Spring Web**
 - **Spring Data JPA**
 - **Hibernate**
-- **PostgreSQL (or H2 for testing)**
-- **Lombok (optional)**
+- **PostgreSQL**
+- **Lombok**
 
 
 
